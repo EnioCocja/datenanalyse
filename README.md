@@ -11,3 +11,8 @@
 | 2025-04-14 | 10:10 - 11:00   | 45 min   | Gersi    | Daten Einfügen                                                                                       |
 | 2025-04-15 | 1:50 - 2:30     | 40 min   | Enio     | Daten im Charts mit Datawrapper visualisiert                                                         |
 
+![In welchem Gebäude sich die Teilnehmer hauptsächlich
+aufhalten](https://github.com/user-attachments/assets/bdf9ca50-506e-40f2-b7b8-d2a20e5984f6)
+!Welche Bereiche am häufigsten als wartungsbedürftig
+genannt werden](https://github.com/user-attachments/assets/43c76a26-9c17-4cee-b991-2aa9560a5335)
+![Wichtigkeit der Instandhaltung](https://github.com/user-attachments/assets/3d46dfbf-f373-4911-896e-76f5558db18e)
