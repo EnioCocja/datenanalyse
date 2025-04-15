@@ -1,6 +1,6 @@
 # Datenanalyse Instandhaltung Schule
 
-| Date       | Time            | Duration | Name     | Description                                                                                          |
+| Datum      | Zeit            | Dauer    | Name     | Beschreibung                                                                                         |
 |------------|-----------------|----------|----------|------------------------------------------------------------------------------------------------------|
 | 2025-04-01 | 14:40 - 14:50   | 10 min   | Enio     | Repository und die README-Datei mit der Tabelle für die Protokolle erstellen                         |
 | 2025-04-07 | 10:30 - 14:35   | 5 min    | Enio     | Interview mit Armend Tahiraga über seine Meinung über den Zustand der Schule                         |
@@ -10,6 +10,7 @@
 | 2025-04-08 | 02:00 - 02:30   | 30 min   | Enio     | Google-Formular-Umfrage mit Fragen an die Schüler über den Zustand der Schule erstellt               |
 | 2025-04-14 | 10:10 - 11:00   | 45 min   | Gersi    | Daten Einfügen                                                                                       |
 | 2025-04-15 | 1:50 - 2:30     | 40 min   | Enio     | Daten im Charts mit Datawrapper visualisiert                                                         |
+| 2025-04-15 | 1:50 - 2:30     | 40 min   | Gersi    | Views und CSV-Exporte                                                                                |
 
 ![In welchem Gebäude sich die Teilnehmer hauptsächlich
 aufhalten](https://github.com/user-attachments/assets/bdf9ca50-506e-40f2-b7b8-d2a20e5984f6)
