@@ -13,6 +13,5 @@
 
 ![In welchem Gebäude sich die Teilnehmer hauptsächlich
 aufhalten](https://github.com/user-attachments/assets/bdf9ca50-506e-40f2-b7b8-d2a20e5984f6)
-!Welche Bereiche am häufigsten als wartungsbedürftig
-genannt werden](https://github.com/user-attachments/assets/43c76a26-9c17-4cee-b991-2aa9560a5335)
+![Welche Bereiche am häufigsten als wartungsbedürftig genannt werden](https://github.com/user-attachments/assets/b4b8caa7-d219-4a31-8531-2102ffcd7e18)
 ![Wichtigkeit der Instandhaltung](https://github.com/user-attachments/assets/3d46dfbf-f373-4911-896e-76f5558db18e)
